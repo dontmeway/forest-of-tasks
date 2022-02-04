@@ -1,0 +1,15 @@
+.root {
+  margin-left: 20px;
+  width: 200px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: max-content;
+  flex-direction: column;
+}
